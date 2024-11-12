@@ -1,0 +1,16 @@
+header,
+textarea {
+  -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000,
+    5px 5px 1px 5px rgba(0, 0, 0, 0);
+  box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000,
+    5px 5px 1px 5px rgba(0, 0, 0, 0);
+}
+
+.background {
+  background-image: url(./mariobianco.jpg);
+  background-position: center;
+}
+
+.backgroundMode {
+  background-image: url(./841271-simple-simple-background-minimalism-video-game-characters.jpg);
+}
